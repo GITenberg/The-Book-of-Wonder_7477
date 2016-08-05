@@ -1,0 +1,52 @@
+_repo: The-Book-of-Wonder_7477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: "The Book of Wonder is the seventh book and fifth original short story\
+  \ collection of Irish fantasy writer Lord Dunsany, considered a major influence\
+  \ on the work of J. R. R. Tolkien, H. P. Lovecraft, Ursula K. Le Guin and others.\
+  \ It was first published in hardcover by William Heinemann in November, 1912, and\
+  \ has been reprinted a number of times since. A 1918 edition from the Modern Library\
+  \ was actually a combined edition with Time and the Gods.\nThe book collects fourteen\
+  \ fantasy short stories by the author.\nLord Dunsany employed the talents of Sidney\
+  \ Sime to illustrate his fantasy short story collections, but The Book of Wonder\
+  \ is unique in that Sydney Sime drew the illustrations first, and Lord Dunsany wrote\
+  \ the tales to incorporate them:\n\n'I found Mr Sime one day, in his strange house\
+  \ at Worplesdon, complaining that editors did not offer him very suitable subjects\
+  \ for illustration; so I said: \"Why not do any pictures you like, and I will write\
+  \ stories explaining them, which may add a little to their mystery?\"'\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7477'
+  wikidata: Q7719322
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+- GITenberg
+tableOfContents: Preface -- The Bride of the Man-Horse -- Distressing Tale of Thangobrind
+  The Jeweller -- The House of the Sphinx -- Probable Adventure of the Three Literary
+  Men -- The Injudicious Prayers of Pombo the Idolater -- The Loot of Bombasharna
+  -- Miss Cubbidge and the Dragon Of Romance -- The Quest of the Queen's Tears --
+  The Hoard of the Gibbelins -- How Nuth Would Have Practised His Art Upon the Gnoles
+  -- How One Came, As Was Foretold, to the City Of Never -- The Coronation of Mr.
+  Thomas Shap -- Chu-Bu and Sheemish -- The Wonderful Window -- Epilogue.
+title: The Book of Wonder
+url: http://www.gutenberg.org/ebooks/7477
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Book_of_Wonder
