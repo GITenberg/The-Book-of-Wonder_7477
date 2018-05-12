@@ -1,5 +1,8 @@
 _repo: The-Book-of-Wonder_7477
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunsany, Lord
@@ -25,6 +28,8 @@ description: "The Book of Wonder is the seventh book and fifth original short st
   \ for illustration; so I said: \"Why not do any pictures you like, and I will write\
   \ stories explaining them, which may add a little to their mystery?\"'\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7477#The-Book-of-Wonder
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
